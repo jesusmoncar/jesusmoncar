@@ -5,17 +5,17 @@
 
 ## Habilidades
 - Desarrollo Frontend con HTML, CSS, y JavaScript.
-- Experiencia en el uso de frameworks como React.js.
-- Conocimientos en el desarrollo Backend con Node.js y Express.
+- Conocimientos en el desarrollo Backend con Node.js.
 - Trabajo con bases de datos, especialmente MySQL.
 - Práctica en el control de versiones con Git.
+
+## Languages and Tools
+-
 
 ## Estoy aprendiendo
 Actualmente, estoy enfocándome en mejorar mis habilidades en:
 
 - Desarrollo Full Stack.
-- Integración de APIs.
-- Pruebas unitarias y de integración.
 
 ## Contacto
 ¡Me encantaría conectarme contigo! Puedes encontrarme en LinkedIn Jesus Montero Carrascoso.
