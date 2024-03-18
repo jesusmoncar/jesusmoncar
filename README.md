@@ -18,7 +18,7 @@
 
   <h2>Reach me on</h2>
   <div>
-    <a href="www.linkedin.com/in/jesus-montero-carrascoso-7610431a4">
+    <a href=["www.linkedin.com/in/jesus-montero-carrascoso-7610431a4](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)">
       <img src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn">
     </a>
     <a href="jesus.montero.jmc@gmail.com">
