@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! 👋 Soy Jesus Montero, y actualmente soy un estudiante de Desarrollo de Aplicaciones Web
+Hola! 👋 Soy Jesus Montero, Desarrollador junior Full-Stack.
 
 
 ## 🌐 Socials:
