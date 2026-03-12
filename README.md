@@ -34,7 +34,7 @@ Actualmente me especializo en construir arquitecturas robustas y escalables, com
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chechuria&icon=0&color=0)](https://visitcount.itsvg.in)
