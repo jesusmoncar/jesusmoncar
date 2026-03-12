@@ -29,8 +29,8 @@ Actualmente me especializo en construir arquitecturas robustas y escalables, com
 
 # 📊 GitHub Stats:
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=chechuria&theme=dark&hide_border=false&show_icons=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chechuria&theme=dark&hide_border=false&layout=compact" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=jesusmoncar&theme=dark&hide_border=false&show_icons=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmoncar&theme=dark&hide_border=false&layout=compact" height="150" />
 </p>
 
 ### ✍️ Random Dev Quote
